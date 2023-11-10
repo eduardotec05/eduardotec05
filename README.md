@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## I'm a Computer Science Engineering student from Jalisco, MX
+## I'm a Computer Science Engineering student from TecuaYork, Jalostotitlán, Jalisco, MX
 
 - 📖 Studying at UDG CUALTOS
 - 🦾 I try to learning C++
