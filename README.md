@@ -41,7 +41,7 @@
 <br>
 
 ### Socials:
-[![Instagram](https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png)](https://www.instagram.com/eduardotec05/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eduardotec05/) 
 
 <br>
 
