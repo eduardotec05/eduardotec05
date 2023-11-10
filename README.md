@@ -19,7 +19,7 @@
 - 🦾 I try to learning C++
 - 🙏 I only want finish the year
 - 🍕 I like the pizza with pineapple
-- ⚽ And up the chivas
+- ⚽ "Y ARRIBAAA LAS CHIVAASSS"❤️💙
 
 <br>
 
@@ -41,7 +41,7 @@
 <br>
 
 ### Socials:
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png))](https://www.instagram.com/eduardotec05/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png))](https://www.instagram.com/eduardotec05/) 
 
 <br>
 
