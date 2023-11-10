@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## I'm a Computer Science Engineering student from TecuaYork, Jalostotitlán, Jalisco, MX
+## I'm a Computer Science Engineering student from TecuaYork, Jalostotitlán, Jalisco, MX📌
 
 - 📖 Studying at UDG CUALTOS
 - 🦾 I try to learning C++
@@ -41,7 +41,7 @@
 <br>
 
 ### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png))](https://www.instagram.com/eduardotec05/) 
+[![Instagram](https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png)](https://www.instagram.com/eduardotec05/) 
 
 <br>
 
