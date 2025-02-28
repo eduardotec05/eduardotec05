@@ -24,28 +24,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp6cXlnMG9veDhxbzF2eTBpenIxaXR1d3l3emp4MHRhb3FkYXhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-dom%C3%ADnguez-padilla/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/eduardotec05/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="33" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/eduardotec05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="33" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="33" alt="instagram logo"  />
   </a>
   <a href="https://x.com/eduardotec05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="33" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-dom%C3%ADnguez-padilla/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="33" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/eduardotec05" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="63" height="33" alt="facebook logo"  />
   </a>
 </div>
 
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/eduardotec05/eduardotec05/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eduardotec05/eduardotec05/output/snake.svg" alt="Snake animation" />
 
 ###
 
