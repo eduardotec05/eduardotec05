@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Stats📈</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -14,6 +18,10 @@
   <img src="https://streak-stats.demolab.com?user=eduardotec05&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=eduardotec05&theme=dracula&column=1&row=2&no-frame=false&no-bg=false" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<h3 align="left">Skills🛠️</h3>
 
 ###
 
@@ -30,6 +38,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+
+###
+
+<h3 align="left">Social Networks🌐</h3>
 
 ###
 
