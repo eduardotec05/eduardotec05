@@ -1,48 +1,64 @@
----
+<h2 align="left">Hi! My name is Eduardo Domínguez and I'm a Computer Engineer student from UDG.</h2>
 
+###
 
-# 💻Engineer... Coming soon...
+<p align="left">I learn new skills.</p>
 
-
+###
 
 <div align="center">
-  <a href="https://assets-v2.lottiefiles.com/a/8ac3f620-1162-11ee-93ee-5f72c70cdba0/PKM5Pmxvja.gif">
-  <img  src="https://assets-v2.lottiefiles.com/a/8ac3f620-1162-11ee-93ee-5f72c70cdba0/PKM5Pmxvja.gif"
-       alt="loading" 
-    /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardotec05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardotec05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=eduardotec05&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-<br>
 
-## I'm a Computer Science Engineering student from TecuaYork, Jalostotitlán, Jalisco, MX📌
+###
 
-- 📖 Studying at UDG CUALTOS
-- 🦾 I try to learning C++
-- 🙏 I only want finish the year
-- 🍕 I like the pizza with pineapple
-- ⚽ "Y ARRIBAAA LAS CHIVAASSS"❤️💙
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-<br>
+###
 
-<img align="right" alt="Mimir" src="https://steamuserimages-a.akamaihd.net/ugc/861738022413745366/0CFBCA54384EB970C7BFAD49F37A27FC19420234/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600" />
-  
-### Languages:
-<img align="left" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />  
+<br clear="both">
 
-  
-<br> 
-<br>
- 
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp6cXlnMG9veDhxbzF2eTBpenIxaXR1d3l3emp4MHRhb3FkYXhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
-### Tools:  
-</p>
-<img align="left" alt="vsc" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> 
+###
 
-<br>
-<br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-dom%C3%ADnguez-padilla/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eduardotec05/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="33" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/eduardotec05" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="33" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/eduardotec05" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"  />
+  </a>
+</div>
 
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eduardotec05/) 
+###
 
-<br>
+<br clear="both">
 
----
+<img src="https://github.com/eduardotec05/eduardotec05/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eduardotec05/count.svg?"  />
+</div>
+
+###
