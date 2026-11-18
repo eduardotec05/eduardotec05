@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Terminal Header / Live Contribution Heatmap -->
-<h3><code>eduardo@github ~ $ ./contributions.sh --live</code></h3>
+<!-- Live Contribution Heatmap Terminal -->
 <img src="./contrib-heatmap.svg" width="860" alt="Eduardo's Contribution Heatmap - Updated Daily" />
 
 <br><br>
 
 <!-- Terminal Hero: Self-typing Monochrome ASCII Portrait + Neofetch Info Card -->
-<h3><code>eduardo@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top">
@@ -42,7 +40,7 @@
 
 ---
 
-### 💻 <code>eduardo@github ~ $ cat skills.json</code>
+### 💻 Technical Stack & Skills
 
 ```json
 {
@@ -86,7 +84,7 @@
 
 ---
 
-### 🚀 <code>eduardo@github ~ $ ./featured-projects.sh</code>
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -151,7 +149,7 @@
 
 ---
 
-### 💼 <code>eduardo@github ~ $ cat experience.log</code>
+### 💼 Professional Experience
 
 ```
 [Jul 2026 - Present]  Full Stack Developer @ CUTepatitlán
@@ -169,7 +167,7 @@
 
 ---
 
-### 🎓 <code>eduardo@github ~ $ cat education_and_certs.log</code>
+### 🎓 Education & Certifications
 
 * **B.S. in Computer Engineering** — *Universidad de Guadalajara (CUAltos)* `[7th Semester - In Progress]`
 * **Data Science Specialization (G8)** — *Oracle Next Education & Alura Latam* `[2025]`
@@ -183,7 +181,7 @@
 
 <div align="center">
 
-### 🕹️ <code>eduardo@github ~ $ ./snake.sh</code>
+### 🕹️ Contribution Activity
 
 <!-- Automated Contribution Snake Game -->
 <picture>
